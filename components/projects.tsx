@@ -30,7 +30,7 @@ export default function Projects() {
       title: "Digital Banking Transformation",
       description:
         "Led the implementation of a Backbase-based digital banking platform, optimizing onboarding, payroll, and billing processes for a mid-sized bank.",
-      impact: "40% reduction in onboarding time; enabled go-live for 5 pilot customers.",
+      impact: "Enabled go-live for 5 pilot corporate customers.",
       technologies: ["Backbase", "Mobile Banking", "Process Design", "UAT Coordination", "Agile Delivery"],
       categoryColor: "bg-blue-100 text-blue-800",
       icon: Smartphone,

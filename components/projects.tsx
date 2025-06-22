@@ -37,10 +37,10 @@ export default function Projects() {
     },
     {
       category: "AI & Risk Analytics",
-      title: "AI-Powered Credit Scoring (AICSS)",
+      title: "AI-Powered Credit Scoring (AI-CSS)",
       description:
         "Delivered an AI-driven internal credit scoring solution to automate and improve the risk assessment process for unsecured loans.",
-      impact: "Improved risk scoring accuracy; reduced processing time by 50% for unsecured loans.",
+      impact: "Improved risk scoring accuracy; reduced processing time by 50%.",
       technologies: ["Credit Scoring", "Data Modeling", "Risk Analytics", "AI Consulting"],
       categoryColor: "bg-purple-100 text-purple-800",
       icon: Brain,
